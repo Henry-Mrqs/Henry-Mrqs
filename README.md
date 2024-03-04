@@ -44,7 +44,7 @@
 <p align="left" style="background:yellow">
   <a href="https://henry-mrqs.github.io/3d_portifolio/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/henry-mrqs?style=flat&logo=Hexo&logoColor=%23FFF&label=WebSite&labelColor=3a2870&color=050816" alt="twitter"/>  
-  </a>
+  </a>  
   <a href="https://linkedin.com/in/henry-marques" target="_blank">
     <img align="center" src="https://img.shields.io/badge/henry-mrqs?style=flat&logo=linkedin&color=0a66c2" alt="linkedin"/>
   </a>
